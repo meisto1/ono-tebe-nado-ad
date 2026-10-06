@@ -47,6 +47,10 @@
   text-underline-position: from-font;
 }
 
+.address p {
+  margin: 0;
+}
+
 .address.header__address {
   justify-self: end;
   text-align: left;
